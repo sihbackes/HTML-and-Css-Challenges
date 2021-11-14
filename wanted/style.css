@@ -1,0 +1,69 @@
+body {
+  background-image: url(/img/K6g10BB.jpg);
+  background-repeat: no-repeat;
+  padding: 20px;
+}
+
+.poster {
+  height: 640px;
+  width: 480px;
+  box-sizing: border-box;
+  background-image: url(/img/Y9Tiq8a.jpg);
+  padding: 20px;
+  background-repeat: no-repeat;
+  text-align: center;
+  box-shadow: 2px 4px 8px 3px #000000;
+}
+
+#mugshot {
+  margin-top: -13px;
+  width: 300px;
+  height: 325px;
+  border: 2px solid #291200;
+  filter: sepia(60%);
+}
+
+h1 {
+  font-family: 'Ewert', cursive;
+  color: #291200;
+  font-size: 44pt;
+  margin: 0px;
+}
+
+.subheading {
+  margin-top: -2px;
+  font-family: 'Ultra', serif;
+  color: #291200;
+  font-size: 15pt;
+}
+
+.name {
+  margin-top: 1px;
+  font-family: 'Ultra', serif;
+  color: #291200;
+  font-size: 22pt;
+}
+
+.description {
+  margin-top: -20px;
+  font-family: 'Ultra', serif;
+  color: #291200;
+  font-size: 13pt;
+  font-style: italic;
+}
+
+h2 {
+  margin-top: -12px;
+  font-family: 'Ultra', serif;
+  color: #291200;
+  font-size: 17pt;
+  font-weight: lighter;
+}
+
+#price {
+  margin-top: -12px;
+  font-family: 'Ultra', serif;
+  color: #291200;
+  font-size: 21pt;
+  text-decoration: double underline;
+}
